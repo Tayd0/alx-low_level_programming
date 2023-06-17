@@ -3,7 +3,7 @@
 /**
  * main - Entry point of the program
  *
- * This function uses printf to print the size of various types 
+ * This function uses printf to print the size of various types
  * on computer it it compiled and run on.
  *
  * Return: Always 0 to indicate success
