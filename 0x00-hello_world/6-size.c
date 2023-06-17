@@ -1,6 +1,10 @@
 #include<stdio.h>
+
 /**
-* main - A program that prints the size of various computer types
+* main - Entry point of the program
+*
+* This function uses printf to print the size of various types on the computer it is compiled and run on.
+*
 * Return: Always 0 (Success)
 */
 int main(void)
