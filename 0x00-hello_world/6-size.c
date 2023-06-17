@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main -Entry point of the program
+ * main - Entry point of the program
  *
  * This function uses printf to print the size of various types 
  * on computer it it compiled and run on.
