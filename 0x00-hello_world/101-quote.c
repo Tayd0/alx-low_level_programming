@@ -15,3 +15,4 @@ int main(void)
 
 	syscall(SYS_write, STDERR_FILENO, message, len);
 	return (1);
+}
