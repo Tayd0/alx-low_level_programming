@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <time.h>
-#include <stdio.h>
+
 
 /**
- * main - Prints the alphabets
+ * main - Prints the alphabet.
  *
  * Return: Always 0 (Success)
  */
