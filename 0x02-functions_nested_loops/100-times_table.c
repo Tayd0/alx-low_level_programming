@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * prints_times_table - prints the n times table, starting with 0
+ * print_times_table - prints the n times_table, starting with 0
  * @n: The number of rows amd columns is the times table.
  *
  * Return: void
